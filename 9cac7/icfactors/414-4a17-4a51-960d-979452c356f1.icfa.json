@@ -6,10 +6,54 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0005304375249293099,
+        "fit": "Average",
+        "reference_data": {
+            "es": [
+                0.0008726797200583067,
+                0.0007751565139034998,
+                0.0008565807957057658,
+                0.0008315162533945399
+            ],
+            "vs": [
+                0.9754049323376308,
+                0.9751181612244771,
+                0.9763479398368254,
+                0.975476981650468
+            ],
+            "xs": [
+                1672171850.0,
+                1672182845.0,
+                1672193869.0,
+                1672205080.0
+            ]
+        },
+        "reference_detector": "H1",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7588",
+                "uuid": "878eafce-fb22-4a62-832a-b7a8899a8863"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7589",
+                "uuid": "f5f1adda-c318-4fe7-a8fe-f3c0ba2e5254"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7590",
+                "uuid": "6adcff69-fb34-494b-8a77-3772690803a7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-7591",
+                "uuid": "0d3c7eb9-393b-433d-a5e5-579a0bccce0d"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 0.9755870037623503
     },
     "H1": {
         "error": 0.0,
